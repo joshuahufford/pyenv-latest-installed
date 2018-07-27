@@ -4,6 +4,8 @@
 set -e
 [ -n "$PYENV_DEBUG" ] && set -b
 
+DEFAULT_QUERY="[0-9]"
+
 get_version() {
   local query=$1
   [[ -z $query ]] && query=$DEFAULT_QUERY
