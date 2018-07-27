@@ -8,4 +8,4 @@ This [pyenv](https://github.com/yyuu/pyenv) plugin sets the local version to the
 
 ## Installation
 
-    git clone https://github.com/joshuahufford/pyenv-latest-installed.git "$(pyenv root)"/plugins/pyenv-install-latest
+    git clone https://github.com/joshuahufford/pyenv-latest-installed.git "$(pyenv root)"/plugins/pyenv-latest-installed
