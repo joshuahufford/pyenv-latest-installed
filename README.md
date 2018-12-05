@@ -1,4 +1,4 @@
-# pyenv-install-latest
+# pyenv-latest-installed
 
 This [pyenv](https://github.com/yyuu/pyenv) plugin sets the local version to the latest installed version.
 
